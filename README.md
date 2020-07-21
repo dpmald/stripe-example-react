@@ -2,11 +2,14 @@
 
 Simple web application that enables one time payments through Stripe to donate food for kittens.
 
-![app screenshot](./client/src/public/screenshot.png)
+![app screenshot](./client/public/screenshot.png)
 
 ## Installation
 
+**Clone from Github**
+`git clone https://github.com/dpmald/stripe-example-react.git`
 
+**Install dependencies**
 
 Install [nodemon](https://github.com/remy/nodemon) globally
 
@@ -21,6 +24,8 @@ yarn
 cd client
 yarn
 ```
+
+**Run the application**
 
 To start the server and client at the same time (from the root of the project)
 
