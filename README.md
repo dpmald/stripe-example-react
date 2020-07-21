@@ -43,6 +43,7 @@ yarn
 To start the server and client at the same time (from the root of the project)
 
 ```
+cd ..
 yarn dev
 ```
 
