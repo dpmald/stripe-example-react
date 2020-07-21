@@ -55,6 +55,7 @@ The web application should open in localhost:3000/
 ---> Declined payment: 4000 0000 0000 9995
 
 All three work with an expiration date in the future and any CVC.
+
 4. Successful payments are logged and can be viewed in payments.txt
 
 Questions? dpmald@gmail.com
