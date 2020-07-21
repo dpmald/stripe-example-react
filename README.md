@@ -58,4 +58,4 @@ All three work with an expiration date in the future and any CVC.
 
 4. Successful payments are logged and can be viewed in payments.txt
 
-Questions? dpmald@gmail.com
+Questions? dpmald@gmail.com   
