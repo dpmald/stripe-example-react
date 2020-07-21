@@ -18,6 +18,12 @@ Install [nodemon](https://github.com/remy/nodemon) globally
 npm i nodemon -g
 ```
 
+Install [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+
+```
+brew install yarn
+```
+
 Install server and client dependencies
 
 ```
