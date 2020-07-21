@@ -7,6 +7,7 @@ Simple web application that enables one time payments through Stripe to donate f
 ## Installation
 
 **Clone from Github**
+
 `git clone https://github.com/dpmald/stripe-example-react.git`
 
 **Install dependencies**
