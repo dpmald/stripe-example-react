@@ -18,6 +18,12 @@ Install [nodemon](https://github.com/remy/nodemon) globally
 npm i nodemon -g
 ```
 
+or, if needed,
+
+```
+sudo npm i nodemon -g
+```
+
 Install [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 
 ```
